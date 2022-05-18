@@ -108,7 +108,7 @@ wait many days in a queue for your job to fail within 10 seconds of starting due
 to a trivial typo in the job script. This is extremely frustrating! 
 
 Most systems provide dedicated resources for testing that have short wait times 
-to help you avoid this issue.
+to help you avoid these kinds of issues.
 
 > ## Test Job Submission Scripts That Use Large Amounts of Resources
 >
